@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dgwbteam.github.io/target4d-slotonline/sitemap.xml
